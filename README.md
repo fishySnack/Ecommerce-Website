@@ -1,1 +1,1 @@
-Frontend runs in React and backend runs in Spring Boot
+Frontend runs in React (file labled 'src') and backend runs in Spring Boot
