@@ -1,1 +1,1 @@
-You need to download the front end as well to run this
+Frontend runs in React and backend runs in Spring Boot
